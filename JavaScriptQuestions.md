@@ -1,3 +1,7 @@
 1. How does EventListener work? 
 
-[JavaScript HTML DOM EventListener](https://www.w3schools.com/js/js_htmldom_eventlistener.asp)
+Resource [JavaScript HTML DOM EventListener](https://www.w3schools.com/js/js_htmldom_eventlistener.asp)
+
+2. What is closures ?
+
+Resource [Closures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
